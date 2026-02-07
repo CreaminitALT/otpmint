@@ -150,7 +150,10 @@ Some good changes are:
 - Migrate from sqlite3 (For big projects)
 - Async / Connection pooling for the db
 - Any other security measures
+- Add a better OTP-mail template
 Customize as much as you want :)
 
-This was an hooby project consider taking security measures before you use it for something big! Right now this is enough for simple applications.
+This was an hobby project consider taking security measures before you use it for something big! Right now this is enough for simple applications.
 The next version will include more channels other than mailing like telegram,etc...
+
+Dont question my naming choices :)
