@@ -155,6 +155,6 @@ Customize as much as you want :)
 
 This was an hobby project consider taking security measures before you use it for something big! Right now this is enough for simple applications.
 The next version will include more channels other than mailing like telegram,etc...
-Dont judge this project I spent little time to develop something cuz i was bored... If you want better, functional apps contact me :)
+# Dont judge this project I spent little time to develop something cuz i was bored... If you want better, functional apps contact me :)
 
 Dont question my naming choices :)
